@@ -3,12 +3,12 @@ import { useNavigate } from "react-router"
 import { Container, Content, InputContainer } from "./styles"
 import Header from "../../components/Header"
 import Input from "../../components/Input"
-import Calca1 from '../../assets/Calca1.jpg'
-import Calca2 from '../../assets/Calca2.jpg'
-import Calca3 from '../../assets/Calca3.jpg'
-import Calca4 from '../../assets/Calca4.jpg'
-import Calca5 from '../../assets/Calca5.jpg'
-import Calca6 from '../../assets/Calca6.jpg'
+import Calca1 from '../../assets/calca1.jpg'
+import Calca2 from '../../assets/calca2.jpg'
+import Calca3 from '../../assets/calca3.jpg'
+import Calca4 from '../../assets/calca4.jpg'
+import Calca5 from '../../assets/calca5.jpg'
+import Calca6 from '../../assets/calca6.jpg'
 import formatPrice from "../../utils/priceFormatter"
 import { ShoppingCart } from "lucide-react"
 
