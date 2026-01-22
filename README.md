@@ -13,7 +13,7 @@
 - React - Biblioteca JavaScript para construção de interfaces
 - Vite - Build tool e dev server de nova geração
 - ESLint - Linter para manter qualidade do código
-- CSS3 - Estilização moderna
+- Styled Components - Estilização moderna
 
 <h4>📦 Pré-requisitos</h4>
 <h4>Antes de começar, você precisa ter instalado:</h4>
